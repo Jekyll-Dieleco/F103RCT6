@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=M1- Pin=JP7-1
+Removed Pin From Net: NetName=M1+ Pin=JP7-6
+Removed Pin From Net: NetName=M2- Pin=JP10-1
+Removed Pin From Net: NetName=M2+ Pin=JP10-6
+Removed Pin From Net: NetName=M3- Pin=JP17-1
+Removed Pin From Net: NetName=M3+ Pin=JP17-6
+Removed Pin From Net: NetName=M4- Pin=JP21-1
+Removed Pin From Net: NetName=M4+ Pin=JP21-6
+Removed Pin From Net: NetName=PB0 Pin=R19-2
+Removed Pin From Net: NetName=PB2 Pin=R23-2
+Change Component Comment : Designator=R19 Old Comment=470R New Comment=1k
+Change Component Comment : Designator=R23 Old Comment=470R New Comment=1k
+Added Component: Designator=R45(R 0603)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=M1+ Pin=JP7-1
+Added Pin To Net: NetName=M1- Pin=JP7-6
+Added Pin To Net: NetName=M2+ Pin=JP10-1
+Added Pin To Net: NetName=M2- Pin=JP10-6
+Added Pin To Net: NetName=M3+ Pin=JP17-1
+Added Pin To Net: NetName=M3- Pin=JP17-6
+Added Pin To Net: NetName=M4+ Pin=JP21-1
+Added Pin To Net: NetName=M4- Pin=JP21-6
+Added Pin To Net: NetName=PB0 Pin=R19-1
+Added Pin To Net: NetName=S5V Pin=R19-2
+Added Pin To Net: NetName=PB2 Pin=R23-1
+Added Pin To Net: NetName=S5V Pin=R23-2
+Added Pin To Net: NetName=PC1 Pin=R45-1
+Added Pin To Net: NetName=S5V Pin=R45-2
+Added Pin To Net: NetName=PB2 Pin=U4-26
+Added Pin To Net: NetName=PB0 Pin=U4-27
+Added Member To Class: ClassName=RCT6 Member=Component R45 10K

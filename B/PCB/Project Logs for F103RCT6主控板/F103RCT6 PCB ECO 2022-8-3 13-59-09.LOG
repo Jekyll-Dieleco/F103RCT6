@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PA12 Pin=R48-1
+Added Pin To Net: NetName=PB5 Pin=R48-1
+Added Pin To Net: NetName=PB4 Pin=STM32F103RCT6-56
+Added Net: Name=PB4
+Added Member To Class: ClassName=RCT6 Member=Component R33 470R

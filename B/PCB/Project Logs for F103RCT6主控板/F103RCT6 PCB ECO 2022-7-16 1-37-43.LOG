@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=U3 Old Footprint=SOP8_N New Footprint=SOP8_N - duplicate
+Added Pin To Net: NetName=GND Pin=U3-9

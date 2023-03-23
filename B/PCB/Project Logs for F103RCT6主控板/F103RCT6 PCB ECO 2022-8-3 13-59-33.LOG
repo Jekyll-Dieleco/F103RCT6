@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=PB5 Pin=R48-1
+Added Pin To Net: NetName=PB4 Pin=R48-1
+Added Room: Name=RCT6

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=LED7-2
+Removed Pin From Net: NetName=3.3V_IMU Pin=R50-2
+Removed Member From Class: ClassName=RCT6 Member=LED7
+Removed Member From Class: ClassName=RCT6 Member=R50

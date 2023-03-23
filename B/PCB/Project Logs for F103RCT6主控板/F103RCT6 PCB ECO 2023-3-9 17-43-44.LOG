@@ -1,0 +1,13 @@
+Added Component: Designator=Q2(SOT23-3N)
+Add component (AddParameter): Name = "BOM名称"; Value = "N沟道场效应管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=U9(SOT23-3N)
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=U9-1
+Added Pin To Net: NetName=3.3V_IMU Pin=U9-2
+Added Pin To Net: NetName=5V Pin=U9-3
+Added Member To Class: ClassName=RCT6 Member=Component Q2 SI2302
+Added Member To Class: ClassName=RCT6 Member=Component U9 662K

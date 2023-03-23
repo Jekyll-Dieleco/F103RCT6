@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=STM32F103RCT6 Old Footprint=LQFP64 7x7_M New Footprint=LQFP64 10x10_L
+Added Member To Class: ClassName=RCT6 Member=Component LED6 »ÆÉ«

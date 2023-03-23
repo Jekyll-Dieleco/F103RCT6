@@ -1,0 +1,13 @@
+Added Component: Designator=K1(开关)
+Added Component: Designator=K2(开关)
+Added Pin To Net: NetName=12V Pin=K1-1
+Added Pin To Net: NetName=T12V Pin=K1-2
+Added Pin To Net: NetName=12V Pin=K2-1
+Added Pin To Net: NetName=S12V Pin=K2-2
+Add Pin To Net: Unknown Pin: Pin U3-9
+Add Pin To Net: Unknown Pin: Pin U5-9
+Add Pin To Net: Unknown Pin: Pin U6-9
+Add Pin To Net: Unknown Pin: Pin U7-9
+Add Pin To Net: Unknown Pin: Pin U8-9
+Added Member To Class: ClassName=RCT6 Member=Component K1 开关
+Added Member To Class: ClassName=RCT6 Member=Component K2 开关

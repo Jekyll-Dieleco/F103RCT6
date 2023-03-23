@@ -1,0 +1,50 @@
+Remove Pin=JP21-4 From Net=PB9
+Remove Pin=R32-1 From Net=PB0
+Remove Pin=R34-1 From Net=PB1
+Remove Pin=R35-1 From Net=PB10
+Remove Pin=R36-1 From Net=PB11
+Remove Pin=R45-1 From Net=PA4
+Remove Pin=R46-1 From Net=PA5
+Change Component Footprint: Designator=JP6 Old Footprint=HDR-1X3 New Footprint=XH2.54-4P
+Change Component Footprint: Designator=JP9 Old Footprint=HDR-1X3 New Footprint=XH2.54-4P
+Change Component Footprint: Designator=U4 Old Footprint=QFN24 New Footprint=PCA9685
+Change Component Footprint: Designator=R35 Old Footprint=R 0603 New Footprint=RCA-8P4R-0603
+Change Component Footprint: Designator=R36 Old Footprint=R 0603 New Footprint=RCA-8P4R-0603
+Change Component Footprint: Designator=R23 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R24 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R25 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R27 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=JP5 Old Footprint=XH2.54-4P New Footprint=XH2.54-6P
+Change Component Comment: Designator=R20 Old Comment=1K New Comment=470R
+Change Component Comment: Designator=R30 Old Comment=1K New Comment=470R
+Change Component Comment: Designator=R23 Old Comment=4.7R New Comment=1k
+Change Component Comment: Designator=R24 Old Comment=4.7R New Comment=470R
+Change Component Comment: Designator=R25 Old Comment=4.7R New Comment=470R
+Change Component Comment: Designator=R27 Old Comment=4.7R New Comment=470R
+Change Component Comment: Designator=R31 Old Comment=100K New Comment=470R
+Change Component Comment: Designator=R45 Old Comment=470R New Comment=10K
+Change Component Comment: Designator=R35 Old Comment=470R New Comment=103
+Change Component Comment: Designator=R36 Old Comment=470R New Comment=103
+Change Component Comment: Designator=JP6 Old Comment=HDR-1X3 New Comment=HDR-1X4
+Change Component Comment: Designator=JP9 Old Comment=HDR-1X3 New Comment=HDR-1X4
+Change Component Comment: Designator=JP5 Old Comment=HDR-1X4 New Comment=HDR-1X6
+Change Component Comment: Designator=U4 Old Comment=MPU6050 New Comment=PCA9685
+Add Pin To Net: Pin=JP21-4 Old Net=PB9 New Net=PB7
+Add Pin To Net: Pin=R32-1 Old Net=PB0 New Net=PB9
+Add Pin To Net: Pin=R34-1 Old Net=PB1 New Net=PB8
+Change Pin Designator/Name:  Old Designator=JP5-2 Old Name=TX New Designator =VCC New Name=1
+Change Pin Designator/Name:  Old Designator=JP5-3 Old Name=RX New Designator =GND New Name=4
+Change Pin Designator/Name:  Old Designator=JP5-4 Old Name=GND New Designator =RX New Name=3
+Change Pin Designator/Name:  Old Designator=JP6-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=JP6-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=R24-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R31-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=R45-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=U4-1 Old Name=CLKIN New Designator =SDA New Name=24
+Change Pin Designator/Name:  Old Designator=U4-2 Old Name=NC New Designator =AD0 New Name=9
+Change Pin Designator/Name:  Old Designator=U4-3 Old Name=NC New Designator =FSYNC New Name=11
+Change Pin Designator/Name:  Old Designator=U4-4 Old Name=NC New Designator =GND New Name=18
+Change Pin Designator/Name:  Old Designator=U4-5 Old Name=NC New Designator =SCL New Name=23
+Change Pin Designator/Name:  Old Designator=U4-9 Old Name=AD0 New Designator =NC New Name=2
+Change Pin Designator/Name:  Old Designator=U4-11 Old Name=FSYNC New Designator =NC New Name=4
+Change Pin Designator/Name:  Old Designator=U4-18 Old Name=GND New Designator =NC New Name=14

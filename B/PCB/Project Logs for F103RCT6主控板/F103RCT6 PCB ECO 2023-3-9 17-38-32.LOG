@@ -1,0 +1,35 @@
+Change Component Footprint: Designator=R23 Old Footprint=R 0603 New Footprint=R 0805
+Change Component Footprint: Designator=R24 Old Footprint=R 0603 New Footprint=R 0805
+Change Component Footprint: Designator=R25 Old Footprint=R 0603 New Footprint=R 0805
+Change Component Footprint: Designator=R27 Old Footprint=R 0603 New Footprint=R 0805
+Add Component: Footprint Not Found C 0603
+Add Component: Footprint Not Found C 0603
+Add Component: Footprint Not Found C 0603
+Add Component: Footprint Not Found C 0805
+Add Component: Footprint Not Found C 0805
+Add Component: Footprint Not Found SOT23-3N
+Add Component: Footprint Not Found SOT23-3N
+Add Pin To Net: Unknown Pin: Pin C25-1
+Add Pin To Net: Unknown Pin: Pin C25-2
+Add Pin To Net: Unknown Pin: Pin C26-1
+Add Pin To Net: Unknown Pin: Pin C26-2
+Add Pin To Net: Unknown Pin: Pin C27-1
+Add Pin To Net: Unknown Pin: Pin C27-2
+Add Pin To Net: Unknown Pin: Pin C28-1
+Add Pin To Net: Unknown Pin: Pin C28-2
+Add Pin To Net: Unknown Pin: Pin C29-1
+Add Pin To Net: Unknown Pin: Pin C29-2
+Add Pin To Net: Unknown Pin: Pin Q2-1
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin Q2-3
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-2
+Add Pin To Net: Unknown Pin: Pin U9-3
+Add Class Member: Failed to add class member : Component C25 104
+Add Class Member: Failed to add class member : Component C26 2.2nF
+Add Class Member: Failed to add class member : Component C27 104
+Add Class Member: Failed to add class member : Component C28 10uF
+Add Class Member: Failed to add class member : Component C29 10uF
+Add Class Member: Failed to add class member : Component Q2 SI2302
+Add Class Member: Failed to add class member : Component U9 662K
+Added Room: Name=RCT6
