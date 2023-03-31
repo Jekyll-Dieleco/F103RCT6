@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=5V Pin=E2-1
+Removed Pin From Net: NetName=GND Pin=E2-2
+Removed Member From Class: ClassName=RCT6 Member=E2
+Added Component: Designator=C30(C 0805_L)
+Add component (AddParameter): Name = "value"; Value = "22uf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "电协硬件组"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=5V Pin=C30-2
+Added Member To Class: ClassName=RCT6 Member=Component C30 C

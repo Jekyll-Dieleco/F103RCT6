@@ -1,0 +1,175 @@
+Error Report for  - Users\HYDE\AppData\Local\Temp\QjzAFBB.tmp
+2023/3/27 21:12:11
+
+Warning arcs were not exported.
+
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-1 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-9 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-10 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-11 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-20 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-21 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-24 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-25 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-33 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-34 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-36 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-45 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-58 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-62 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-60 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Warning pad shape change for U3-4 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Warning pad shape change for U3-5 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-12 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-18 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-31 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-47 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-63 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Warning pad shape change for LED7-2 from octagonal 60mil,50mil to rounded 50mil,50mil
+Warning pad shape change for LED6-2 from octagonal 60mil,50mil to rounded 50mil,50mil
+Warning pad shape change for LED5-2 from octagonal 60mil,50mil to rounded 50mil,50mil
+Warning pad shape change for LED4-2 from octagonal 60mil,50mil to rounded 50mil,50mil
+Warning pad shape change for LED3-2 from octagonal 60mil,50mil to rounded 50mil,50mil
+Warning pad shape change for LED2-2 from octagonal 60mil,50mil to rounded 50mil,50mil
+Warning pad shape change for U5-6 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Warning pad shape change for U5-8 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Warning pad shape change for U6-6 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Warning pad shape change for U6-8 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Warning pad shape change for U7-6 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Warning pad shape change for U7-8 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Warning pad shape change for U8-6 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Warning pad shape change for U8-8 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Warning pad shape change for U3-8 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Warning pad shape change for U3-3 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Warning pad shape change for LED1-2 from octagonal 50mil,35mil to rounded 35mil,35mil
+Warning pad shape change for U3-2 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Warning pad shape change for U3-6 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Warning pad shape change for U5-7 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Warning pad shape change for U6-7 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Warning pad shape change for U7-7 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Warning pad shape change for U8-7 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-7 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-5 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-6 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-14 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-15 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-16 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-17 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-22 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-23 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Warning pad shape change for U5-3 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-41 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Warning pad shape change for U5-2 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-42 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Warning pad shape change for U6-3 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-43 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Warning pad shape change for U6-2 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-44 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-50 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-26 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-27 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-28 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-55 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-56 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-57 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-59 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-61 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-29 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-30 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-35 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-8 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Warning pad shape change for U7-3 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-37 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Warning pad shape change for U7-2 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-38 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Warning pad shape change for U8-3 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-39 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Warning pad shape change for U8-2 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-40 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-51 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-52 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-53 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-2 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-3 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-4 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-54 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Warning pad shape change for U7-5 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Warning pad shape change for U8-5 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Warning pad shape change for U5-5 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Warning pad shape change for U6-5 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-49 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-46 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Warning pad shape change for U3-7 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Warning pad shape change for U7-4 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Warning pad shape change for U8-4 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Warning pad shape change for U5-4 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Warning pad shape change for U6-4 from rounded 21.654mil,70.866mil to rectangular 21.654mil,49.213mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-13 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-19 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-32 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-48 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil
+Component Designator STM32F103RCT6 too long.
+Warning pad shape change for STM32F103RCT6-64 from rounded 9.842mil,61.024mil to rectangular 9.842mil,51.181mil

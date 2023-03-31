@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : Project [F103RCT6Ö÷¿Ø°å11.PrjPcb]
+   Generated File[Fabrication Testpoint Report for F103RCT6.ipc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 21:12:11 On 2023/3/27
